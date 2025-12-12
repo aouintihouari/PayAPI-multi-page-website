@@ -1,6 +1,6 @@
 # PayAPI Multi-Page Website
 
-![Design Preview](./design/preview.jpg)
+![Design Preview](./preview.jpg)
 
 This is a solution to the multi-page website challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
