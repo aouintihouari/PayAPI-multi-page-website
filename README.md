@@ -1,7 +1,6 @@
 # [Project Name] Multi-Page Website
 
-![Design Preview](./design/desktop-preview.jpg)
-_(Note: Replace the path above with your own screenshot or the default preview image)_
+![Design Preview](./design/preview.jpg)
 
 This is a solution to the multi-page website challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -12,8 +11,6 @@ This is a solution to the multi-page website challenge on Frontend Mentor. Front
   - [Overview](#overview)
     - [The Challenge](#the-challenge)
     - [Screenshot](#screenshot)
-    - [Links](#links)
-  - [My Process](#my-process)
     - [Built With](#built-with)
     - [What I Learned](#what-i-learned)
 
@@ -33,22 +30,16 @@ Users should be able to:
 ### Screenshot
 
 **Desktop View**
+
 ![Desktop Screenshot](./screenshots/desktop.png)
 
 **Tablet View**
+
 ![Tablet Screenshot](./screenshots/tablet.png)
 
 **Mobile View**
+
 ![Mobile Screenshot](./screenshots/mobile.png)
-
-_(Make sure to create a `screenshots` folder and add your images there)_
-
-### Links
-
-- **Solution URL:** [Add your Frontend Mentor solution link here]
-- **Live Site URL:** [Add your Vercel/Netlify link here]
-
-## My Process
 
 ### Built With
 
