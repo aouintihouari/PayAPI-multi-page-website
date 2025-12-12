@@ -1,4 +1,4 @@
-# [Project Name] Multi-Page Website
+# PayAPI Multi-Page Website
 
 ![Design Preview](./design/preview.jpg)
 
